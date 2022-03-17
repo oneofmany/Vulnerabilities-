@@ -1,12 +1,9 @@
-# Vulnerabilities
-Collection of useful vulnerabilities with associated POC, directories follow the following structure:
+# F1nD3r Collection of Vulnerabilities and Tested Proof of Concepts
+This repo is F1nD3r's collection of tested vulnerabilities classified by target OS or services, feel free to add any missing or interesting CVE to the collection.
 
-CVE ID: Name of the CVE folder 
+The files are organized by directories using the target OS or service as name, under each directory you will find an running markdown file that has three (3) sections:
 
-  CVE ID Link: Link to the CVE.mitre.org report 
-  
-  CVE ID POC: Copy of POC repo or its code 
-  
+
 # Linux Vulnerabilities
 # Kubernetes Vulnerabilites
 # Windows Vulnerabilities 
